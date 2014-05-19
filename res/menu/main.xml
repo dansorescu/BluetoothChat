@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ro.pdsd.proiecte.bluetoothchat.MainActivity" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+    
+    <item
+        android:id="@+id/secure"
+        android:title="@string/secure_connect_scan"/>
+    
+    <item
+        android:id="@+id/insecure"
+        android:title="@string/insecure_connect_scan"/>
+    
+    <item
+        android:id="@+id/discoverable" 
+        android:title="@string/discoverable"/>
+</menu>

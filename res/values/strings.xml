@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">BluetoothChat</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_bluetooth_chat_service">BluetoothChatService</string>
+    <string name="title_activity_device_list">DeviceListActivity</string>
+    <string name="send">Send</string>
+    <string name="title_other_devices">Other Devices</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="button_scan">Scan</string>
+    <string name="select_device">Select Device</string>
+    <string name="not_connected"> Not connected</string>
+    <string name="title_connected_to">Connected to</string>
+    <string name="title_connecting">Connecting</string>
+    <string name="title_not_connected">Not Connected</string>
+    <string name="bt_not_enabled_leaving">Not Enabled Leaving</string>
+    <string name="none_paired">None Paired</string>
+    <string name="scanning">Scanning</string>
+    <string name="none_found">None Found</string>
+    <string name="secure_connect_scan">Secure Connect</string>
+    <string name="insecure_connect_scan">Insecure Connect</string>
+    <string name="discoverable">Make Discoverable</string>
+</resources>
